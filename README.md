@@ -1,4 +1,4 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
+<img src="banner_github.ng" alt="GitHub Banner" width="100%" />
 
 <h2 align="left">Hi 👋! My name is Abu hanif sagor and I'm a full stack developer, from bangladesh.</h2>
 
