@@ -1,8 +1,8 @@
-<img src="banner_github.ng" alt="GitHub Banner" width="100%" />
+<img src="banner_github.ng" alt="" width="100%" />
 <h1 style="text-align: center;">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!;+I'm+ador!;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!;+I'm+Abu+Hanif+Sagor!;" alt="Typing SVG" />
 </h1>
-<h2 align="left">Hi 👋! My name is Abu hanif sagor and I'm a full stack developer, from bangladesh.</h2>
+<h2 align="left">Hi  I'm a full stack developer, from bangladesh.</h2>
 
 ###
 
