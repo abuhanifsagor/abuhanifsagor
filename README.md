@@ -54,10 +54,6 @@
 
 
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/abuhanifsagor/count.svg?"  />
-</div>
-
 ###
 
 <picture>
