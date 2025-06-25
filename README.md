@@ -28,7 +28,6 @@ Driven by curiosity, fueled by challenges, and committed to turning complex prob
   </a>
 </p>
 
----
 
 ### 🛠️ Tech Stack
 
