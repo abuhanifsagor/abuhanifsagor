@@ -1,5 +1,5 @@
 <img src="bannergithub.png" alt="" width="100%" />
-<h1 style="text-align: center;">
+<h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&duration=4000&pause=1000&center=true&vCenter=true&width=700&height=60&lines=Code+that+Connects+🌐;Abu+Hanif+Sagor+%7C+MERN+Stack+Dev;Let’s+Build+Clean,+Scalable+Web+Apps+🚀" alt="Typing SVG" />
 </h1>
 
