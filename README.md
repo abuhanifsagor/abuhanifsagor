@@ -1,66 +1,58 @@
-<!-- Profile README for Abu Hanif Sagor -->
+<img src="banner_github.ng" alt="" width="100%" />
+<h1 style="text-align: center;">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!;+I'm+Abu+Hanif+Sagor!;" alt="Typing SVG" />
+</h1>
+<h2 align="center">  I'm a Front-end developer, from bangladesh.</h2>
 
-<h1 align="center">Hi 👋, I'm Abu Hanif Sagor</h1>
-<h3 align="center">A passionate MERN Stack Developer from Bangladesh</h3>
+###
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=7C3AED&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;Always+Learning+and+Building;Let's+Collaborate!+🚀" alt="Typing SVG" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abuhanifsagor&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abuhanifsagor&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
----
+###
 
-### 👨‍💻 About Me
+<div style="border-radius: 100%">
+    <img align="right" height="150"   style="border-radius: 100%;" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW9xaHRncjk3eHlvMHFobngxZGJ6b2ltMHU1d2Q1M3Q5bXpvcnZ1MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp"  />
+</div>
 
-- 🔭 I’m currently working on several full-stack web apps using the **MERN stack**
-- 🌱 I’m always learning new technologies to improve as a developer
-- 💬 Ask me about anything related to **React, Node.js, MongoDB, Tailwind CSS**
-- 📫 Reach me at: **abuhanifsagor72@gmail.com**
-- 🌐 Portfolio: *Coming Soon*  
-- 🔗 LinkedIn: *Coming Soon*
+###
 
----
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" /> -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" /> -->
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" /> -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
+  <img width="12" />
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+</div> -->
 
-### 🛠️ Tech Stack
+###
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind" alt="Tech Stack Icons" />
-</p>
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
 
----
+###
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abuhanifsagor&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abuhanifsagor&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abuhanifsagor&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
-### 📌 Pinned Projects
-
-> ✅ Make sure to go to your GitHub profile → Repositories → Pin the best 3–6 projects manually.
-
-Examples to include:
-- **🎯 Event Explorer** – Local event discovery platform with filters, search, and event management.  
-- **🛒 Henri Restaurant App** – A MERN-based food ordering system with JWT authentication and dynamic food management.  
-- **🧑‍💻 Task Freelance Marketplace** – Post tasks, bid, and manage freelance jobs using Firebase + MongoDB.  
-
----
-
-### 📬 Let’s Connect!
-
-Feel free to connect and collaborate!  
-Stay tuned for more updates on my portfolio and projects.
-
----
+<br clear="both">
 
 
 
