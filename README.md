@@ -18,51 +18,6 @@
 </div>
 
 ###
-
-### 🛠️ Tech Stack
-
-#### 🌐 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap" alt="Frontend Tech" />
-</p>
-
-#### 🧠 Backend & Database
-<p>
-  <img src="https://skillicons.dev/icons?i=express,firebase" alt="Backend Tech" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-</p>
-
-#### ☁️ Deployment & Hosting
-<p>
-  <img src="https://skillicons.dev/icons?i=vercel,netlify" alt="Hosting Platforms" />
-</p>
-
-#### 🎨 UI/UX & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" />
-</p>
-### 🛠️ Tech Stack
-
-#### 🌐 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap" alt="Frontend Tech" />
-</p>
-
-#### 🧠 Backend & Database
-<p>
-  <img src="https://skillicons.dev/icons?i=express,firebase" alt="Backend Tech" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-</p>
-
-#### ☁️ Deployment & Hosting
-<p>
-  <img src="https://skillicons.dev/icons?i=vercel,netlify" alt="Hosting Platforms" />
-</p>
-
-#### 🎨 UI/UX & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" />
-</p>
 ### 🛠️ Tech Stack
 
 #### 🌐 Frontend
